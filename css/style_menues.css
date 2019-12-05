@@ -1,0 +1,63 @@
+*{
+    font-weight:bold;
+}
+.menu{
+	padding: 20px;
+	margin:4px;
+	border-width:5px;  
+    border-style:solid;
+	background-color:#E5DAC7;
+}
+.bg{
+	background-image:url(../images/schedul-background.jpg);
+	/* Full height */
+  height: 180px; 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hColor{
+	font-style:bold;
+	margin-top:50px;
+}
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+ .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  width:100%;
+	  }
+.navbar-nav{
+		float:right;
+		padding-right:35%;
+	}
+    
+/* Set black background color, white text and some padding */
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+	  }
+    
+.space{
+		margin-bottom:0px;
+      }
+	
+	h3{
+		font-weight:bold;
+		text-decoration: underline;
+	}
+	.picCenter{
+		margin-top:130px;
+		margin-bottom:130px;
+	}
+	
+	.box{
+		background-size:cover;
+	}
+	h1{
+		font-size:50px;
+	}
+	button{
+		font-size: 18px;
+		font-weight:bold;

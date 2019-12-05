@@ -1,0 +1,75 @@
+* {
+	box-sizing: border-box;
+	direction: rtl;
+}
+body{
+	height: 100%;
+}
+.bg{
+  background-color:#CD853F;  
+  height:180px;
+  text-align:center;
+  color:white;
+}
+.bgMain{
+    background-color:#FFFFF0;
+}
+h2{
+    margin-right:500px;
+    padding-top:60px;
+    color:#2F4F4F;
+    font-size:200px;
+    font-weight:bold;
+}
+.p_form{
+	color:#A52A2A;
+	text-align:center;
+}
+.h_form{
+	color:#A52A2A;
+	text-align:center;
+}
+.btn{
+	clear:both;
+	margin:10px 50%;
+	border-style: bold;
+}
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0px;
+      border-radius: 0px;
+      width:100%;
+      height:100%;
+    }
+	.navbar-nav{
+		width:100%;
+		padding-right:25px;
+	}
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+	background-color: #CD853F;
+	color:white;
+	padding:25px;
+	font-size:16px;
+
+}
+
+  .check{
+	  margin-left:15px;
+  }
+  .nav-link{
+	width:120px;
+	font-weight:bold;
+}
+    .toCenter{
+        padding-right:400px;   
+    }
+    .cover{
+        width:100%;
+    }
+.videoCenter{
+    margin-top:20px;
+    padding-right:55%;
+}
+
